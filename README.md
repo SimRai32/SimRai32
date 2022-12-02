@@ -1,11 +1,4 @@
 <div id="header" align="center">
-  <img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width="100"/>
-
-  <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/simran-kalirai-283978258">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
 
   ### Hi there 👋
 
@@ -17,6 +10,15 @@
 ---
 
 ### About Me:
+
+I am a Full Stack Developer from Canada.
+
+- :telescope: I’m currently trying to learn C# and the .NET framework.
+
+- :zap: In my free time, I like to work on leetcode and watch programming tutorials.
+
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simran-kalirai-283978258/)
+   
 
 ---
 
