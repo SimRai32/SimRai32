@@ -148,7 +148,7 @@
     </td>  
      <td align="center" height="108" width="108">
       <img
-        src="logo-mysql-170x115.png"
+        src="https://www.svgrepo.com/show/303251/mysql-logo.svg"
         width="48"
         height="48"
         alt="POSTGRESQL"
@@ -161,7 +161,7 @@
     <td>API</td>
     <td align="center" height="108" width="108">
       <img
-        src="icons8-rest-api-50.png"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s"
         width="48"
         height="48"
         alt="REST"
@@ -170,7 +170,7 @@
     </td>  
      <td align="center" height="108" width="108">
       <img
-        src="graphql.png"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98DxugSAuOVaFkvEL8Lz8Xxl-oCrSVx1dvg&s"
         width="48"
         height="48"
         alt="POSTGRESQL"
@@ -246,10 +246,10 @@
     <td>Languages</td>
     <td align="center" height="108" width="108">
       <img
-        src="C.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
         width="48"
         height="48"
-        alt="RUBY"
+        alt="C"
       />
       <br /><strong>C</strong>
     </td>
@@ -277,7 +277,7 @@
     <td>Frameworks & Libraries</td>
     <td align="center" height="108" width="108">
       <img
-        src="react-native.png"
+        src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"
         width="48"
         height="48"
         alt="RAILS"
