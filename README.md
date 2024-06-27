@@ -1,54 +1,393 @@
-<div id="header" align="center">
+<h1 align="center">👋 Hello and Welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> my name is Simran </h1>
 
-  ### Hi there 👋
+<h3 align="center">I'm a Full Stack Software Engineer living in Vancouver, Canada.</h3>
 
-  <div id="header" align="center">
-    <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="600"/>
-  </div>
-</div>
+<br/>
+<p align="center">
+  ✨
+  <a target="_blank" href="https://www.linkedin.com/in/simrai32/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  ✨
+  <a target="_blank" href="https://drive.google.com/file/d/1RDF6rpPbC24ghJYC4uT6UJ5J5mCc9Ibr/view?usp=sharing">
+    <img src="https://img.shields.io/badge/resume-243964?style=for-the-badge&logo=latex&logoColor=white">
+  </a>
+  ✨
+</p>
 
----
+📈&nbsp; I'm currently working as a Junior Developer for Eudara 
+<br/>
+🏋️‍♀️&nbsp; When I'm not coding, I enjoy playing Super Smash Brothers Melee, basketball, and watching hockey!
 
-### About Me:
+<section align="center">
+<h2>💡Projects💡</h2>
+<table bordercolor="#66b2b2">
+  <tr>
+<td width="50%" valign="top">
+      <h3>Easy English</h3>
 
-I am a Full Stack Developer from Canada.
+![](https://github.com/jobinism/esltranslator/raw/main/docs/speechToText.gif?raw=true)
 
-- :telescope: I’m currently trying to learn C# and the .NET framework.
+  <p>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/SimRai32/esltranslator">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a> 
+      </p>
+        <p><strong>React, Node/Express, MaterialUI, PostgreSQL</strong> – Easy English is an easy to use language translator app, that acts as a tool to help someone to learn English</p> -->
+</td> 
+  </tr>
+</table>
+</section>
 
-- :zap: In my free time, I like to work on leetcode and watch programming tutorials.
+<br/>
 
-- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simran-kalirai-283978258/)
+
+
+<h2 align="center">:computer: Working Knowledge :computer:</h2>
+
+<table>  
+  <tr>
+    <td>Languages</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        width="48"
+        height="48"
+        alt="JAVASCRIPT"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://titrias.com/files/2022/04/typescript.png"
+        width="48"
+        height="48"
+        alt="TYPESCRIPT"
+      />
+      <br /><strong>TypeScript</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?20180210215736"
+        width="48"
+        height="48"
+        alt="C#"
+      />
+      <br /><strong>C#</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
+        width="48"
+        height="48"
+        alt="SQL"
+      />
+      <br /><strong>SQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="CSS"
+      />
+      <br /><strong>CSS</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Backend</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
+        width="48"
+        height="48"
+        alt="NODEJS"
+      />
+      <br /><strong>NodeJS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png"
+        width="48"
+        height="48"
+        alt="EXPRESS"
+      />
+      <br /><strong>Express</strong>
+    </td>
+  </tr>
    
+  <tr>
+    <td>Databases</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="POSTGRESQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>  
+     <td align="center" height="108" width="108">
+      <img
+        src="logo-mysql-170x115.png"
+        width="48"
+        height="48"
+        alt="POSTGRESQL"
+      />
+      <br /><strong>MySQL</strong>
+    </td>  
+  </tr>
+  
+   <tr>
+    <td>API</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="icons8-rest-api-50.png"
+        width="48"
+        height="48"
+        alt="REST"
+      />
+      <br /><strong>REST</strong>
+    </td>  
+     <td align="center" height="108" width="108">
+      <img
+        src="graphql.png"
+        width="48"
+        height="48"
+        alt="POSTGRESQL"
+      />
+      <br /><strong>GraphQL</strong>
+    </td>  
+  </tr>
+ 
 
----
+ 
 
-### Languages, Frameworks, and Libraries:
+  <tr>
+    <td>Frameworks & Libraries</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="REACT"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://sass-lang.com/assets/img/styleguide/seal-color.png"
+        width="48"
+        height="48"
+        alt="SCSS"
+      />
+      <br /><strong>SCSS</strong>
+    </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://laravel.com/img/logotype.min.svg"
+        width="48"
+        height="48"
+        alt="LARAVEL"
+      />
+      <br /><strong>Laravel</strong>
+    </td>
+    
+  </tr>
+  
+  <tr>
+    <td>Tools</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"
+        width="48"
+        height="48"
+        alt="VSCode"
+      />
+      <br /><strong>VSCode</strong>
+    </td>    
+  </tr>   
+</table>
 
-<div> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-</ div>
+<br >
 
----
+<h2 align="center">:computer: Exposed To :computer:</h2>
 
-### My Stats :
+<table>  
+  <tr>
+    <td>Languages</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="C.png"
+        width="48"
+        height="48"
+        alt="RUBY"
+      />
+      <br /><strong>C</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://www.php.net//images/logos/new-php-logo.svg"
+        width="48"
+        height="48"
+        alt="PHP"
+      />
+      <br /><strong>PHP</strong>
+    </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"
+        width="48"
+        height="48"
+        alt="C++"
+      />
+      <br /><strong>C++</strong>
+    </td>
+  </tr>
+    
+  <tr>
+    <td>Frameworks & Libraries</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="react-native.png"
+        width="48"
+        height="48"
+        alt="RAILS"
+      />
+      <br /><strong>React Native</strong>
+    </td>
+       <td align="center" height="108" width="108">
+      <img
+        src="https://laravel.com/img/logotype.min.svg"
+        width="48"
+        height="48"
+        alt="LARAVEL"
+      />
+      <br /><strong>Laravel</strong>
+    </td>
+  
+  <tr>
+     <td>AWS</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.worldvectorlogo.com/logos/aws-lambda.svg"
+        width="48"
+        height="48"
+        alt="LAMBDA"
+      />
+      <br /><strong>Lambda</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://static-00.iconduck.com/assets.00/aws-api-gateway-icon-423x512-70e4i3mi.png"
+        width="48"
+        height="48"
+        alt="APIGATEWAY"
+      />
+      <br /><strong>API Gateway</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.bouncebacktech.com/assets/img/amzec2logo.png"
+        width="48"
+        height="48"
+        alt="EC2"
+      />
+      <br /><strong>EC2</strong>
+    </td>
+ 
+ 
+  <tr>
+    <td>Testing</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+        width="48"
+        height="48"
+        alt="CYPRESS"
+      />
+      <br /><strong>Cypress</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/storybook.png"
+        width="48"
+        height="48"
+        alt="STORYBOOK"
+      />
+      <br /><strong>Storybook</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+        width="48"
+        height="48"
+        alt="JEST"
+      />
+      <br /><strong>Jest</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
+        width="48"
+        height="48"
+        alt="MOCHA"
+      />
+      <br /><strong>Mocha</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://p7.hiclipart.com/preview/626/247/761/mocha-javascript-node-js-test-driven-development-assertion-chai-sheng.jpg"
+        width="48"
+        height="48"
+        alt="CHAI"
+      />
+      <br /><strong>Chai</strong>
+    </td>
+  </tr>  
+   
+  <tr>
+    <td>Tools</td>
+    <td align="center" height="108" min-width="108">
+      <img
+        src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+        width="48"
+        height="48"
+        alt="FIGMA"
+      />
+      <br /><strong>Figma</strong>
+    </td>
+  </tr>   
+</table>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SimRai32&theme=dark&background=000000)](https://git.io/streak-stats)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimRai32&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**SimRai32/SimRai32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br >
 
-
+</section>
