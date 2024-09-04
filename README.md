@@ -17,6 +17,7 @@
 
 📈&nbsp; I'm currently working as a Junior Developer for Eudara 
 <br/>
+[![Watch the video](https://img.youtube.com/vi/CfoeBOWMLL0/maxresdefault.jpg)](https://www.youtube.com/watch?v=CfoeBOWMLL0)
 🏋️‍♀️&nbsp; When I'm not coding, I enjoy playing Super Smash Brothers Melee, basketball, and watching hockey!
 
 <section align="center">
