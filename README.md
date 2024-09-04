@@ -17,7 +17,13 @@
 
 📈&nbsp; I'm currently working as a Junior Developer for Eudara 
 <br/>
-[![Watch the video](https://img.youtube.com/vi/CfoeBOWMLL0/maxresdefault.jpg)](https://www.youtube.com/watch?v=CfoeBOWMLL0)
+<div style="display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=CfoeBOWMLL0">
+    <img src="https://img.youtube.com/vi/CfoeBOWMLL0/maxresdefault.jpg" alt="Watch the video" style="max-width: 100%; height: auto; margin-right: 10px;" />
+  </a>
+  <img src="https://github.com/SimRai32/SimRai32/blob/main/smashCompete.jpg?raw=true" alt="alt text" style="max-width: 100%; height: auto;" />
+</div>
+
 🏋️‍♀️&nbsp; When I'm not coding, you might find me rooting for my favorite hockey team (go Canucks!), shooting hoops and working on my shooting, or competing in Super Smash Brothers Melee tournaments. I love the thrill of the game and the community around it! If you're interested in watching me compete in a tournament, check out the video above. Let’s connect if you share any of these passions! 
 
 <section align="center">
