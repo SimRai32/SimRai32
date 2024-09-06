@@ -19,7 +19,7 @@
 <br/>
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://www.youtube.com/watch?v=CfoeBOWMLL0" style="margin-right: 10px;">
-    <img src="https://img.youtube.com/vi/CfoeBOWMLL0/maxresdefault.jpg" alt="Watch the video" style="width: 500px; height: 400px;" />
+    <img src="https://img.youtube.com/vi/CfoeBOWMLL0/maxresdefault.jpg" alt="Watch the video" style="width: 450px; height: 400px;" />
   </a>
   <img src="https://github.com/SimRai32/SimRai32/blob/main/smashCompete.jpg?raw=true" alt="alt text" style="width: 350px; height: 400px;" />
 </div>
