@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/watch?v=CfoeBOWMLL0" style="margin-right: 10px;">
     <img src="https://img.youtube.com/vi/CfoeBOWMLL0/maxresdefault.jpg" alt="Watch the video" style="width: 500px; height: 400px;" />
   </a>
-  <img src="https://github.com/SimRai32/SimRai32/blob/main/smashCompete.jpg?raw=true" alt="alt text" style="width: 400px; height: 400px;" />
+  <img src="https://github.com/SimRai32/SimRai32/blob/main/smashCompete.jpg?raw=true" alt="alt text" style="width: 300px; height: 400px;" />
 </div>
 
 🏋️‍♀️&nbsp; When I'm not coding, you might find me rooting for my favorite hockey team (go Canucks!), shooting hoops and working on my shooting, or competing in Super Smash Brothers Melee tournaments. I love the thrill of the game and the community around it! If you're interested in watching me compete in a tournament, check out the video above. Let’s connect if you share any of these passions! 
