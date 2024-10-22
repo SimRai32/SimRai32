@@ -15,7 +15,7 @@
   ✨
 </p>
 
-📈&nbsp; I'm currently working as a Junior Developer for Eudara 
+📈&nbsp; I'm currently working as a Software Developer for Eudara 
 <br/>
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://www.youtube.com/watch?v=CfoeBOWMLL0" style="margin-right: 10px;">
