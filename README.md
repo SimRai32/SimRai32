@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   ✨
-  <a target="_blank" href="https://drive.google.com/file/d/1RDF6rpPbC24ghJYC4uT6UJ5J5mCc9Ibr/view?usp=sharing">
+  <a target="_blank" href="https://drive.google.com/file/d/1wD7X77dmWw0UvYJ3Qnn0GHSwaV8o-YN4/view?usp=sharing">
     <img src="https://img.shields.io/badge/resume-243964?style=for-the-badge&logo=latex&logoColor=white">
   </a>
   ✨
